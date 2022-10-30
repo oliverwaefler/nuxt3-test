@@ -1,7 +1,5 @@
 <template>
   <div>
-blbl
-blbl
-    <NuxtWelcome />
+    <comp-1/>
   </div>
 </template>
